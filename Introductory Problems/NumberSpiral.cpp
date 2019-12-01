@@ -1,3 +1,8 @@
+/*
+test	verdict	time (s)	
+#1	ACCEPTED	0.20 / 1.00
+*/
+
 #include <iostream>
 using namespace std;
 int main(){
